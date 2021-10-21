@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  ordermanagementcrud:
+    image: ${DOCKER_REGISTRY-}ordermanagementcrud
+    build:
+      context: .
+      dockerfile: OrderManagementCRUD\Dockerfile

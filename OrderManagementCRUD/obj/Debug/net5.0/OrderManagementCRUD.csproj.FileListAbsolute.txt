@@ -1,0 +1,189 @@
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\OrderManagementCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\OrderManagementCRUD.AssemblyInfoInputs.cache
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\OrderManagementCRUD.AssemblyInfo.cs
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\OrderManagementCRUD.csproj.CoreCompileInputs.cache
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\OrderManagementCRUD.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\OrderManagementCRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\appsettings.json
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\OrderManagementCRUD.exe
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\OrderManagementCRUD.deps.json
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\OrderManagementCRUD.runtimeconfig.json
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\OrderManagementCRUD.runtimeconfig.dev.json
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\OrderManagementCRUD.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\ref\OrderManagementCRUD.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\OrderManagementCRUD.pdb
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\staticwebassets\OrderManagementCRUD.StaticWebAssets.Manifest.cache
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\staticwebassets\OrderManagementCRUD.StaticWebAssets.xml
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\scopedcss\bundle\OrderManagementCRUD.styles.css
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\OrderManagementCRUD.RazorTargetAssemblyInfo.cache
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\OrderManagementCRUD.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\ref\OrderManagementCRUD.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\OrderManagementCRUD.pdb
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\OrderManagementCRUD.genruntimeconfig.cache
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Humanizer.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BASKARAN P\source\repos\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\OrderManagementCRUD.csproj.CopyComplete
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\appsettings.Development.json
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\appsettings.json
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\OrderManagementCRUD.exe
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\OrderManagementCRUD.deps.json
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\OrderManagementCRUD.runtimeconfig.json
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\OrderManagementCRUD.runtimeconfig.dev.json
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\OrderManagementCRUD.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\ref\OrderManagementCRUD.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\OrderManagementCRUD.pdb
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Humanizer.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\OrderManagementCRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\OrderManagementCRUD.AssemblyInfoInputs.cache
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\OrderManagementCRUD.AssemblyInfo.cs
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\OrderManagementCRUD.csproj.CoreCompileInputs.cache
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\OrderManagementCRUD.MvcApplicationPartsAssemblyInfo.cs
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\OrderManagementCRUD.MvcApplicationPartsAssemblyInfo.cache
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\staticwebassets\OrderManagementCRUD.StaticWebAssets.Manifest.cache
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\staticwebassets\OrderManagementCRUD.StaticWebAssets.xml
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\scopedcss\bundle\OrderManagementCRUD.styles.css
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\OrderManagementCRUD.RazorTargetAssemblyInfo.cache
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\OrderManagementCRUD.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\ref\OrderManagementCRUD.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\OrderManagementCRUD.pdb
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\OrderManagementCRUD.genruntimeconfig.cache
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Plain.RabbitMQ.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\RabbitMQ.Client.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\RabbitMQ.Client.Core.DependencyInjection.dll
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\sample.json
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Liersch.Json.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\appsettings.Development.json
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\appsettings.json
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\sample.json
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\OrderManagementCRUD.exe
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\OrderManagementCRUD.deps.json
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\OrderManagementCRUD.runtimeconfig.json
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\OrderManagementCRUD.runtimeconfig.dev.json
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\OrderManagementCRUD.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\ref\OrderManagementCRUD.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\OrderManagementCRUD.pdb
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Humanizer.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Liersch.Json.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Plain.RabbitMQ.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\RabbitMQ.Client.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\RabbitMQ.Client.Core.DependencyInjection.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\OrderManagementCRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\OrderManagementCRUD.AssemblyInfoInputs.cache
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\OrderManagementCRUD.AssemblyInfo.cs
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\OrderManagementCRUD.csproj.CoreCompileInputs.cache
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\OrderManagementCRUD.MvcApplicationPartsAssemblyInfo.cs
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\OrderManagementCRUD.MvcApplicationPartsAssemblyInfo.cache
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\staticwebassets\OrderManagementCRUD.StaticWebAssets.Manifest.cache
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\staticwebassets\OrderManagementCRUD.StaticWebAssets.xml
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\scopedcss\bundle\OrderManagementCRUD.styles.css
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\OrderManagementCRUD.RazorTargetAssemblyInfo.cache
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\OrderManagementCRUD.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\ref\OrderManagementCRUD.dll
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\OrderManagementCRUD.pdb
+D:\LearningApp\Temp\OrderManagementCRUD3\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\OrderManagementCRUD.genruntimeconfig.cache
+D:\LearningApp\OrderManagementCRUD\OrderManagementCRUD\obj\Debug\net5.0\OrderManagementCRUD.csproj.CopyComplete

@@ -1,0 +1,202 @@
+{
+  "id": 2,
+  "name": "Systems Software",
+  "subjects": [
+    {
+      "id": 16,
+      "name": "Embedded Systems Design",
+      "semesterOffered": -1,
+      "core": false,
+      "scheduled": false
+    },
+    {
+      "id": 17,
+      "name": "Cyber Physical Systems",
+      "semesterOffered": -1,
+      "core": false,
+      "scheduled": true
+    },
+    {
+      "id": 18,
+      "name": "Database Design",
+      "semesterOffered": 1,
+      "core": true,
+      "scheduled": true
+    },
+    {
+      "id": 19,
+      "name": "Data Mining",
+      "semesterOffered": -1,
+      "core": false,
+      "scheduled": true
+    },
+    {
+      "id": 20,
+      "name": "Micro Processors",
+      "semesterOffered": -1,
+      "core": false,
+      "scheduled": false
+    },
+    {
+      "id": 21,
+      "name": "Distributed Computing",
+      "semesterOffered": 1,
+      "core": true,
+      "scheduled": true
+    },
+    {
+      "id": 22,
+      "name": "Deep Learning",
+      "semesterOffered": -1,
+      "core": false,
+      "scheduled": false
+    },
+    {
+      "id": 23,
+      "name": "Natural Learning Processing",
+      "semesterOffered": -1,
+      "core": false,
+      "scheduled": true
+    },
+    {
+      "id": 24,
+      "name": "Embedded Network Security",
+      "semesterOffered": -1,
+      "core": false,
+      "scheduled": false
+    },
+    {
+      "id": 25,
+      "name": "Data Management for IOT",
+      "semesterOffered": -1,
+      "core": false,
+      "scheduled": false
+    },
+    {
+      "id": 26,
+      "name": "Networked Embedded Applications",
+      "semesterOffered": -1,
+      "core": false,
+      "scheduled": false
+    },
+    {
+      "id": 27,
+      "name": "Computer Networks",
+      "semesterOffered": -1,
+      "core": false,
+      "scheduled": true
+    },
+    {
+      "id": 28,
+      "name": "Design and Operation of Data Centers",
+      "semesterOffered": -1,
+      "core": false,
+      "scheduled": false
+    },
+    {
+      "id": 29,
+      "name": "Edge Computing",
+      "semesterOffered": -1,
+      "core": false,
+      "scheduled": true
+    },
+    {
+      "id": 30,
+      "name": "Advanced Computer Networks",
+      "semesterOffered": -1,
+      "core": false,
+      "scheduled": true
+    },
+    {
+      "id": 31,
+      "name": "Network Programming",
+      "semesterOffered": -1,
+      "core": false,
+      "scheduled": true
+    },
+    {
+      "id": 32,
+      "name": "Network Security",
+      "semesterOffered": -1,
+      "core": false,
+      "scheduled": true
+    },
+    {
+      "id": 33,
+      "name": "Wireless & Mobile Communication",
+      "semesterOffered": -1,
+      "core": false,
+      "scheduled": false
+    },
+    {
+      "id": 35,
+      "name": "Mobile Networks",
+      "semesterOffered": -1,
+      "core": false,
+      "scheduled": true
+    },
+    {
+      "id": 36,
+      "name": "Data Storage Technologies",
+      "semesterOffered": -1,
+      "core": false,
+      "scheduled": true
+    },
+    {
+      "id": 37,
+      "name": "Cryptography",
+      "semesterOffered": -1,
+      "core": false,
+      "scheduled": true
+    },
+    {
+      "id": 38,
+      "name": "Ethical Hacking",
+      "semesterOffered": -1,
+      "core": false,
+      "scheduled": true
+    },
+    {
+      "id": 39,
+      "name": "Identity & Access Management Technologies",
+      "semesterOffered": -1,
+      "core": false,
+      "scheduled": true
+    },
+    {
+      "id": 40,
+      "name": "Parallel Embedded Architectures",
+      "semesterOffered": -1,
+      "core": false,
+      "scheduled": false
+    },
+    {
+      "id": 41,
+      "name": "Software for Embedded Systems",
+      "semesterOffered": -1,
+      "core": false,
+      "scheduled": true
+    },
+    {
+      "id": 42,
+      "name": "Real Time Systems",
+      "semesterOffered": -1,
+      "core": false,
+      "scheduled": true
+    },
+    {
+      "id": 43,
+      "name": "Data Structures",
+      "semesterOffered": 1,
+      "core": true,
+      "scheduled": true
+    },
+    {
+      "id": 44,
+      "name": "Data Wearhousing",
+      "semesterOffered": 2,
+      "core": true,
+      "scheduled": true
+    }
+  ]
+}
